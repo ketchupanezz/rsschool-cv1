@@ -10,7 +10,7 @@ __Contact information:__
 - **GitHub:** [ketchupanezz](https://github.com/ketchupanezz)
 
 **About Myself**
-
+---
 I've been thinking for a long time about which area of programming to choose, and finally decided to become a front-end developer.
 My strengths are communication, creativity, diligence, and excellent teamwork. 
 
