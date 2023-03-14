@@ -2,8 +2,9 @@
 ---
 **Iryna Sokalava**
 ===
+
 __Contact information:__
----
+
 - **Location:** Minsk, Belarus
 - **E-mail:** cheezsauce@mail.ru
 - **Telegram:** @Ketchupanez
@@ -45,6 +46,7 @@ int main()
 
 **Experience**
 ---
+
 **Education**
 ---
 - **University:** Belarusian State University of Informatics and Radioelectronics (BSUIR)
