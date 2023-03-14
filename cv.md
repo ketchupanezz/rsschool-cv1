@@ -1,6 +1,6 @@
 [rsschool-cv]()
 ---
-**Iryna Sokalava**
+**Iryna Sokalava**  
 ===
 
 __Contact information:__
